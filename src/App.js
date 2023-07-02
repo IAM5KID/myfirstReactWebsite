@@ -17,7 +17,7 @@ const App = () => {
   return (
     <>
       <Navbar/>
-      <Routes>
+      <Routes basename="/myfirstReactWebsite">
         <Route exact path='/' element={<Home/>} />
         <Route exact path='/about' element={<About/>} />
         <Route exact path='/service' element={<Service/>} />
