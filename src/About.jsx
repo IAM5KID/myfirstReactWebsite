@@ -1,6 +1,6 @@
 import React from "react";
 import CommonTamplet from "./CommonTamplet";
-import web from "../src/Images/rocket-maker.png";
+import web from "../src/Images/contact.jpg";
 
 const About = () => {
     return (
