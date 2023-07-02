@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myfirstReactWebsite/static/css/main.83d28b2c.css",
-    "main.js": "/myfirstReactWebsite/static/js/main.96b2af10.js",
-    "static/media/contact.jpg": "/myfirstReactWebsite/static/media/contact.ac2bb94f65d8677599fa.jpg",
+    "main.js": "/myfirstReactWebsite/static/js/main.9647fe87.js",
+    "static/media/contact.jpg": "/myfirstReactWebsite/static/media/contact.09e0a59fd73f4da119b3.jpg",
     "static/media/digital-career.jpg": "/myfirstReactWebsite/static/media/digital-career.5b760775035ed6aaa74c.jpg",
     "static/media/cybersecurity.avif": "/myfirstReactWebsite/static/media/cybersecurity.919032626564cd4178ca.avif",
     "static/media/android.jpg": "/myfirstReactWebsite/static/media/android.5bf0e6d8643b1ab08a17.jpg",
@@ -11,10 +11,10 @@
     "static/media/appdev.jpg": "/myfirstReactWebsite/static/media/appdev.28766b95ea9aef459767.jpg",
     "index.html": "/myfirstReactWebsite/index.html",
     "main.83d28b2c.css.map": "/myfirstReactWebsite/static/css/main.83d28b2c.css.map",
-    "main.96b2af10.js.map": "/myfirstReactWebsite/static/js/main.96b2af10.js.map"
+    "main.9647fe87.js.map": "/myfirstReactWebsite/static/js/main.9647fe87.js.map"
   },
   "entrypoints": [
     "static/css/main.83d28b2c.css",
-    "static/js/main.96b2af10.js"
+    "static/js/main.9647fe87.js"
   ]
 }
