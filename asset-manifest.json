@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myfirstReactWebsite/%20/static/css/main.83d28b2c.css",
-    "main.js": "/myfirstReactWebsite/%20/static/js/main.f563830d.js",
+    "main.js": "/myfirstReactWebsite/%20/static/js/main.bf6bf0d8.js",
     "static/media/digital-career.jpg": "/myfirstReactWebsite/%20/static/media/digital-career.5b760775035ed6aaa74c.jpg",
     "static/media/cybersecurity.avif": "/myfirstReactWebsite/%20/static/media/cybersecurity.919032626564cd4178ca.avif",
     "static/media/android.jpg": "/myfirstReactWebsite/%20/static/media/android.5bf0e6d8643b1ab08a17.jpg",
@@ -10,10 +10,10 @@
     "static/media/appdev.jpg": "/myfirstReactWebsite/%20/static/media/appdev.28766b95ea9aef459767.jpg",
     "index.html": "/myfirstReactWebsite/%20/index.html",
     "main.83d28b2c.css.map": "/myfirstReactWebsite/%20/static/css/main.83d28b2c.css.map",
-    "main.f563830d.js.map": "/myfirstReactWebsite/%20/static/js/main.f563830d.js.map"
+    "main.bf6bf0d8.js.map": "/myfirstReactWebsite/%20/static/js/main.bf6bf0d8.js.map"
   },
   "entrypoints": [
     "static/css/main.83d28b2c.css",
-    "static/js/main.f563830d.js"
+    "static/js/main.bf6bf0d8.js"
   ]
 }
